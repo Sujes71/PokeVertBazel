@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="processed_jackson-databind-2.18.1_14d7b277">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/_bazel_destr/74qqlwu4/execroot/_main/bazel-out/x64_windows-fastbuild/bin/external/maven/v1/https/repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.18.1/processed_jackson-databind-2.18.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

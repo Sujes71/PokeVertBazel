@@ -1,0 +1,12 @@
+java_binary(
+    name = "app",
+    srcs = glob(["src/main/java/es/zed/**/*.java"]),
+    main_class = "es.zed.MainVerticle",
+    deps = [
+        "@maven//:io_vertx_vertx_core",
+        "@maven//:io_vertx_vertx_web",
+        "@maven//:io_vertx_vertx_web_client",
+        "@maven//:com_fasterxml_jackson_core_jackson_databind",
+        "@maven//:com_fasterxml_jackson_core_jackson_annotations",
+    ],
+)
